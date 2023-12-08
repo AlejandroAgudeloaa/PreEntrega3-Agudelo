@@ -1,0 +1,9 @@
+section{
+    height: 100vh;
+}
+
+.card{
+    width: 360px;
+    height: 250px;
+    margin: 0 15px;
+}
